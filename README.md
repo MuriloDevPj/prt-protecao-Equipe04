@@ -4,10 +4,10 @@ Repositório do projeto **PRT-Proteção** — Análise e segmentação de clien
 ---
 
 ## Etapa 1 — Imersão no Contexto
-- [ ] Entender os pontos focais do projeto com a equipe
-- [ ] Realizar alinhamentos iniciais com a equipe da Seguradora
-- [ ] Realizar o Kick-Off (reunião inicial)
-- [ ] Obtenção de acesso às bases de dados e ao ambiente AWS SageMaker
+- [X] Entender os pontos focais do projeto com a equipe
+- [X] Realizar alinhamentos iniciais com a equipe da Seguradora
+- [X] Realizar o Kick-Off (reunião inicial)
+- [X] Obtenção de acesso às bases de dados e ao ambiente AWS SageMaker
 
 ## Etapa 2 — Limpeza e Tratamento dos Dados
 - [ ] Mapeamento das tabelas disponíveis e identificação das relações entre os dados
