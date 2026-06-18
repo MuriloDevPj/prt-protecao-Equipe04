@@ -16,10 +16,10 @@ Repositório do projeto **PRT-Proteção** — Análise e segmentação de clien
 - [X] Integração das bases e construção da visão analítica unificada por cliente
 
 ## Etapa 3 — Análise Exploratória
-- [ ] Análises de distribuição das variáveis e identificação de padrões por tipo de apólice, sinistralidade e perfil de pagamento
-- [ ] Entendimento da correlação e dependência entre informações
-- [ ] Levantamento dos principais parâmetros a serem considerados para elaboração do modelo
-- [ ] Identificação dos principais fatores associados ao comportamento de churn dos clientes
+- [X] Análises de distribuição das variáveis e identificação de padrões por tipo de apólice, sinistralidade e perfil de pagamento
+- [X] Entendimento da correlação e dependência entre informações
+- [X] Levantamento dos principais parâmetros a serem considerados para elaboração do modelo
+- [X] Identificação dos principais fatores associados ao comportamento de churn dos clientes
 
 ## Etapa 4 — Modelagem e Segmentação de Clientes
 - [ ] Seleção e avaliação dos modelos de Machine Learning mais adequados para o objetivo de segmentação
