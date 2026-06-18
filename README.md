@@ -10,10 +10,10 @@ Repositório do projeto **PRT-Proteção** — Análise e segmentação de clien
 - [X] Obtenção de acesso às bases de dados e ao ambiente AWS SageMaker
 
 ## Etapa 2 — Limpeza e Tratamento dos Dados
-- [ ] Mapeamento das tabelas disponíveis e identificação das relações entre os dados
-- [ ] Tratamento de valores nulos, duplicados e outliers
-- [ ] Seleção dos dados relevantes
-- [ ] Integração das bases e construção da visão analítica unificada por cliente
+- [X] Mapeamento das tabelas disponíveis e identificação das relações entre os dados
+- [X] Tratamento de valores nulos, duplicados e outliers
+- [X] Seleção dos dados relevantes
+- [X] Integração das bases e construção da visão analítica unificada por cliente
 
 ## Etapa 3 — Análise Exploratória
 - [ ] Análises de distribuição das variáveis e identificação de padrões por tipo de apólice, sinistralidade e perfil de pagamento
