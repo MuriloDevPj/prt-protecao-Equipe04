@@ -22,18 +22,18 @@ Repositório do projeto **PRT-Proteção** — Análise e segmentação de clien
 - [X] Identificação dos principais fatores associados ao comportamento de churn dos clientes
 
 ## Etapa 4 — Modelagem e Segmentação de Clientes
-- [ ] Seleção e avaliação dos modelos de Machine Learning mais adequados para o objetivo de segmentação
-- [ ] Seleção, tratamento e criação de variáveis relevantes para a segmentação dos clientes
-- [ ] Otimização e validação do modelo, garantindo segmentos bem definidos e interpretáveis
-- [ ] Análise de churn por segmento e sugestão de ações de retenção do ponto de vista de negócio
+- [X] Seleção e avaliação dos modelos de Machine Learning mais adequados para o objetivo de segmentação
+- [X] Seleção, tratamento e criação de variáveis relevantes para a segmentação dos clientes
+- [X] Otimização e validação do modelo, garantindo segmentos bem definidos e interpretáveis
+- [X] Análise de churn por segmento e sugestão de ações de retenção do ponto de vista de negócio
 
 ## Etapa 5 — Deploy do Modelo e Confecção da Interface
-- [ ] Confecção do código que receberá novos dados e gerará segmentações em tempo real
-- [ ] Desenvolvimento da interface interativa (visualização dos segmentos, monitoramento de churn por grupo, taxa de cancelamento por perfil, simulador de novos segurados)
-- [ ] Deploy do modelo na infraestrutura AWS SageMaker
-- [ ] Utilizar o MLflow para versionamento e acompanhamento de modelos
+- [X] Confecção do código que receberá novos dados e gerará segmentações em tempo real
+- [X] Desenvolvimento da interface interativa (visualização dos segmentos, monitoramento de churn por grupo, taxa de cancelamento por perfil, simulador de novos segurados)
+- [X] Deploy do modelo na infraestrutura AWS SageMaker
+- [X] Utilizar o MLflow para versionamento e acompanhamento de modelos
 
 ## Etapa 6 — Validação e Documentação Final
-- [ ] Validação final com o time da Seguradora
-- [ ] Documentação e entrega final do código
-- [ ] Apresentação final do projeto
+- [X] Validação final com o time da Seguradora
+- [X] Documentação e entrega final do código
+- [X] Apresentação final do projeto
